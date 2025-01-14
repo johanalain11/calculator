@@ -11,7 +11,7 @@ Ce projet est un site web monopage classique, implémentant une calculatrice qui
 
 ---
 ## Technologies Utilisées
-**Langage de programmation :** HTML, CSS
+**Langages de programmation :** HTML, CSS
 
 ---
 ## Améliorations Futures
