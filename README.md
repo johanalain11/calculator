@@ -7,7 +7,8 @@ Ce projet est un site web monopage classique, implémentant une calculatrice qui
 
 ---
 ## Utilisation
-
+Accédez au site web via le lien suivant:
+[Calculatrice](https://calculator-ja11.netlify.app/)
 
 ---
 ## Technologies Utilisées
